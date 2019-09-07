@@ -1,0 +1,34 @@
+Write a Python program that implements the Naive Bayes classifier.
+Your program should take as input a dataset file and a set of training
+labels in the format given in the example datasets on the course website.
+As output your program should produce predicted labels for the test
+dataset which are feature vectors whose labels are not given for training. 
+
+Submit your assignment by copying it into the directory
+/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
+For example if your ucid is abc12 then copy your solution into 
+/afs/cad/courses/ccs/f18/cs/675/001/abc12.
+
+Your completed assignment is due by midnight Sept 23rd 2018.
+
+
+
+
+Naïve Bayes algorithm
+Input:
+	1. Data matrix of dimension n by m (n rows and m columns)
+	2. Training labels L. Each label li is an integer indicating the class that row i belongs to.
+
+Algorithm:
+	1. Training:
+	a. Initialize the mean mj of each class to the vector of all 1’s (not 0’s). These are
+		pseudocounts to avoid zero variance.
+	b. Compute mean mj of each class by adding each datapoint to mj and dividing by
+		number of datapoints
+	2. Prediction: Assign point x’i to class j if x’i is closest to the mean of class j normalized by
+		standard deviation. In other words
+
+		class(xi) = argminj( sum( (x'ik - mjk)/sjk  ) )
+
+		where sjk is the standard deviation of the kth feature (dimension) of class j and mjk and x’ik
+		are the kth entry (dimension) of the vectors x’i and mj respectively.
