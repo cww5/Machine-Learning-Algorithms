@@ -44,12 +44,3 @@ w = 0.0995024069539168 0.0995025677420564
 and distance to origin 
 
 abs(w0/||w||) = 7.77817457926694
-
-Your assignment is due Oct 1st 2018.
-
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your Python program into 
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
-
-Usman
