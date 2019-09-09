@@ -63,14 +63,3 @@ For this example the output would be similar to the one below
 w = 6.77850714487713 -1.06370810572314 
 ||w||=6.86146005215591
 distance to origin = -2.60844880003425
- 
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f16/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your Perl script into 
-/afs/cad/courses/ccs/f16/cs/675/001/abc12.
-
-Submit a hardcopy in class as well.
-
-Your completed program is due before 10:00am on July 1st 2018. 
-
-Usman
