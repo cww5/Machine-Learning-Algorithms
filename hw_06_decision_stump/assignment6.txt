@@ -12,13 +12,6 @@ value s.
 We will test it on a simple example to determine if your program 
 gives the correct output. Test your program with a simple XOR example.
 
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your programs
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
-
-Your completed script is due midnight on Nov 7th 2018. 
-
 High level pseudocode:
 
     (1) For each column j:
