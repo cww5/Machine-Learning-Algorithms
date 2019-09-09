@@ -32,14 +32,3 @@ loss. The converged solution with the hinge loss would be
 w = (1.4605574252399243, -0.4595542036671061)
 w0 = -2.0024682128830427
 Dist to origin= 1.3078203832146862
-
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/S18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your Perl script into 
-/afs/cad/courses/ccs/S18/cs/675/001/abc12.
-
-Submit a hardcopy in class as well.
-
-Your completed script is due before 6pm on June 24th 2018. 
-
-Usman
