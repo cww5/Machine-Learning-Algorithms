@@ -13,10 +13,3 @@ and C2 = {5} then the output would be
 0 3
 1 4
 2 5
-
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your Perl script into 
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
-
-Your program is due before midnight on 11/19/18
