@@ -4,16 +4,6 @@ labels in the format given in the example datasets on the course website.
 As output your program should produce predicted labels for the test
 dataset which are feature vectors whose labels are not given for training. 
 
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your solution into 
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
-
-Your completed assignment is due by midnight Sept 23rd 2018.
-
-
-
-
 Naïve Bayes algorithm
 Input:
 	1. Data matrix of dimension n by m (n rows and m columns)
