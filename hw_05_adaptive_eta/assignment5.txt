@@ -40,8 +40,3 @@ Submit your programs as least_squares_adaptive_eta.py and
 hinge_adaptive_eta.py. Also submit your avg_test_error.pl script and all 
 six UCI datasets so that we can evaluate your programs on the six 
 datasets.  
-
-Copy your solutions the directory 
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>. For example if your ucid is 
-abc12 then copy your programs into 
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
