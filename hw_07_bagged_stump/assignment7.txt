@@ -9,10 +9,3 @@ Your program will create a bootstrapped dataset and then run
 your decision stump on it and obtain predictions labels.
 It will repeat this a 100 times and output the majority vote of 
 the predictions. 
-
-Submit your assignment by copying it into the directory
-/afs/cad/courses/ccs/f18/cs/675/001/<ucid>.
-For example if your ucid is abc12 then copy your Perl script into 
-/afs/cad/courses/ccs/f18/cs/675/001/abc12.
-
-Your completed script is due before 11:30am on 11/14/18. 
